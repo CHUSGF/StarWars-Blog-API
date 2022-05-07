@@ -1,4 +1,3 @@
-## Table of contents
 
 1. How to create an empty database
 2. How to create your models
